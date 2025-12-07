@@ -7,7 +7,7 @@ https://github.com/mimi-neoki/AMD_Robotics_Hackathon_2025_Revolution
 We used smolvla and dual SO-101 arms.
 
 # Demo
-- instructed to touch USA
+- instructed to touch USA  
 https://github.com/user-attachments/assets/83336673-828c-4ce8-9105-6f4c65694419
 
 
