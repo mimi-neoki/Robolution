@@ -1,5 +1,5 @@
 # Robolution
-All you need is space pirate. 
+Space pirate is all you need. 
 
 We will continue to develop the work started in AMD Robotics Hackathon 2025  
 https://github.com/mimi-neoki/AMD_Robotics_Hackathon_2025_Revolution
